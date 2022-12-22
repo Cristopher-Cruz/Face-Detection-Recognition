@@ -4,7 +4,7 @@
 ### File 1 : faceDetection.py 
 How to run : open file and run on IDE that supports python
 
-How to quit : press 'q' on frame to close window
+How to quit : press 'q' on pop-up frame to close window and exit program
 
 How it works : 
 1. Loads 1 image from a specified directory
@@ -22,7 +22,7 @@ The script uses **openCV** and the **haarcascade** algorithm
 ### File 2 : faceRecognition.py 
 How to run : open file and run on IDE that supports python
 
-How to quit : press 'q' on live webcam window
+How to quit : press 'q' on live webcam window to close window and exit program
 
 How it works : 
 1. Loads images from a specified directory
