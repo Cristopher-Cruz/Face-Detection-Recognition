@@ -7,16 +7,17 @@ How to run : open file and run on IDE that supports python
 How to quit : press 'q' on pop-up frame to close window and exit program
 
 ### How it works : 
-1. Loads 1 image from a specified directory
+1. Loads specified image into the program
 2. Converts image to grayscale  
 3. Uses haar cascades algorithm to detect faces
-4. Window will open with frame around the face detected
+4. Window will open with frame around the faceDetection.py script
 
 The script uses **openCV** and the **haarcascade** algorithm
 
 ### Issues you might encounter : 
 - If the image file is corrupted or not in the correct format, the program will be unable to read it
 - Even if the file extension is valid, the image itself might not be. You might need to convert it again (try : [image.online-convert.com](https://image.online-convert.com))
+- Make sure the image file is in the same folder as the script
 
 ![image 1](res1.png)
 
