@@ -38,6 +38,7 @@ How it works :
 The script uses **openCV** and the **face_recognition** api 
 ### Issues you might encounter : 
 - Make sure the images loaded to train the program are in the correct folder specified by the script. In this script, the image path is set to a folder named 'faces', in the same directory where the 'faceRecognition.py' script resides
+- Do not remove code lines that remove '.DS_Store' from image path. See the following [post](https://stackoverflow.com/questions/47645115/oserror-cannot-identify-image-file-dataset-ds-store) on stackoverflow for reference
 
 ![image 1](res2.png)
 ![image 1](res3.png)
