@@ -1,7 +1,7 @@
 # Face-Detection-Recognition
 ## This repository contains multiple python scripts that use AI/deep learning for face detection and recognition.
 
-### File 1 : faceDetection.py 
+### File 1 : faceDetection.py - puts frame around a face detected from image loaded into the program
 How to run : open file and run on IDE that supports python
 
 How to quit : press 'q' on pop-up frame to close window and exit program
@@ -19,7 +19,7 @@ The script uses **openCV** and the **haarcascade** algorithm
 
 
 
-### File 2 : faceRecognition.py 
+### File 2 : faceRecognition.py - real time face recognition
 How to run : open file and run on IDE that supports python
 
 How to quit : press 'q' on live webcam window to close window and exit program
