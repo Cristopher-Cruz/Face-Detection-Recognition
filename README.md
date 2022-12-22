@@ -37,7 +37,7 @@ How it works :
 
 The script uses **openCV** and the **face_recognition** api 
 ### Issues you might encounter : 
-- Make sure the images loaded to train the program are in the correct folder specified by the script. In this script, the image path is set to a folder named 'faces', in the same directory where the 'faceRecognition.py' resides
+- Make sure the images loaded to train the program are in the correct folder specified by the script. In this script, the image path is set to a folder named 'faces', in the same directory where the 'faceRecognition.py' script resides
 
 ![image 1](res2.png)
 ![image 1](res3.png)
