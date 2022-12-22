@@ -16,7 +16,7 @@ The script uses **openCV** and the **haarcascade** algorithm
 
 Issues you might encounter : 
 - If the image file is corrupted or not in the correct format, the program will be unable to read it
-- Even if the file extension is correct, the image itself might not be valid. You might need to convert it again (try : online-convert.com)
+- Even if the file extension is correct, the image itself might not be valid. You might need to convert it again (try : [image.online-convert.com](https://image.online-convert.com))
 
 ![image 1](res1.png)
 
