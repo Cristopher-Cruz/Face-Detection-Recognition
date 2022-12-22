@@ -11,6 +11,7 @@ How it works :
 2. Converts image to grayscale  
 3. Uses haar cascades algorithm to detect faces
 4. Window will open with frame around the face detected
+
 The script uses **openCV** and the **haarcascade** algorithm
 ![image 1](res1.png)
 
