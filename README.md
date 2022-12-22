@@ -3,6 +3,7 @@
 
 ### File 1 : faceRecognition.py 
 How to run : open file and run on IDE that supports python
+
 How to quit : press 'q' on live webcam window
 
 How it works : 
