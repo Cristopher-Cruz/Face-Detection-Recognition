@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Detection-Recognition
 ## This repository contains multiple python scripts that use AI/deep learning for face detection and recognition.
 
 ### File 1 : faceDetection.py 
