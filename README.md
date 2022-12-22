@@ -2,7 +2,10 @@
 ### This repository contains multiple python scripts that use AI/deep learning for face recognition.
 
 ## File 1 : faceRecognition.py 
-### How it works : 
+### How to run : open file and run on IDE that supports python
+How to quit : press 'q' on live webcam window
+
+How it works : 
 1. Loads images from a specified directory
 2. Encodes images from step 1
 3. Opens webcam and encodes the current live feed
