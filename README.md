@@ -15,9 +15,9 @@ How to quit : press 'q' on pop-up frame to close window and exit program
 The script uses **openCV** and the **haarcascade** algorithm
 
 ### Issues you might encounter : 
+- Make sure the image file is in the same directory as the faceDetection.py script
 - If the image file is corrupted or not in the correct format, the program will be unable to read it
 - Even if the file extension is valid, the image itself might not be. You might need to convert it again (try : [image.online-convert.com](https://image.online-convert.com))
-- Make sure the image file is in the same directory as the faceDetection.py script
 
 ![image 1](res1.png)
 
