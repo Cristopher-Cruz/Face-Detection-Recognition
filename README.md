@@ -13,6 +13,7 @@ How it works :
 4. Window will open with frame around the face detected
 
 The script uses **openCV** and the **haarcascade** algorithm
+
 ![image 1](res1.png)
 
 
