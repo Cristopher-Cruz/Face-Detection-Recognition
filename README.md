@@ -10,14 +10,14 @@ How to quit : press 'q' on pop-up frame to close window and exit program
 1. Loads specified image into the program
 2. Converts image to grayscale  
 3. Uses haar cascades algorithm to detect faces
-4. Window will open with frame around the faceDetection.py script
+4. Window will open with frame around the face detected
 
 The script uses **openCV** and the **haarcascade** algorithm
 
 ### Issues you might encounter : 
 - If the image file is corrupted or not in the correct format, the program will be unable to read it
 - Even if the file extension is valid, the image itself might not be. You might need to convert it again (try : [image.online-convert.com](https://image.online-convert.com))
-- Make sure the image file is in the same folder as the script
+- Make sure the image file is in the same directory as the faceDetection.py script
 
 ![image 1](res1.png)
 
@@ -37,7 +37,7 @@ How it works :
 
 The script uses **openCV** and the **face_recognition** api 
 ### Issues you might encounter : 
-- Make sure the images loaded to train the program are in the correct folder. In this script, the image path is set to a folder named 'faces' in the same directory where the 'faceRecognition.py' resides
+- Make sure the images loaded to train the program are in the correct folder specified by the script. In this script, the image path is set to a folder named 'faces', in the same directory where the 'faceRecognition.py' resides
 
 ![image 1](res2.png)
 ![image 1](res3.png)
