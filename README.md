@@ -1,5 +1,5 @@
 # Face-Recognition
-### This repository contains multiple Python scripts that use AI/deep learning to recognize images/faces.
+### This repository contains multiple python scripts that use AI/deep learning to recognize images/faces.
 
 ## File 1 : faceRecognition.py 
 ### How it works : 
