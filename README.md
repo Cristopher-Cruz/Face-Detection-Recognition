@@ -4,7 +4,7 @@
 ### File 1 : faceDetection.py 
 How to run : open file and run on IDE that supports python
 
-How to quit : press 'q' on live webcam window
+How to quit : press 'q' on frame to close window
 
 How it works : 
 1. Loads 1 image from a specified directory
@@ -31,3 +31,6 @@ How it works :
 4. Checks if there is a match between the encoded images and the live frames encoded
 
 The script uses **openCV** and the **face_recognition** api 
+
+![image 1](res2.png)
+![image 1](res3.png)
