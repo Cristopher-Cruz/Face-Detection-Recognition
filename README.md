@@ -1,7 +1,7 @@
 # Face-Detection-Recognition
 ## This repository contains multiple python scripts that use AI/deep learning for face detection and recognition.
 
-### File 1 : faceDetection.py - puts frame around a face detected from image loaded into the program
+### File 1 : faceDetection.py - face detection on loaded image
 How to run : open file and run on IDE that supports python
 
 How to quit : press 'q' on pop-up frame to close window and exit program
