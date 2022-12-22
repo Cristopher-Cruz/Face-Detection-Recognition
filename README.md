@@ -14,6 +14,10 @@ How it works :
 
 The script uses **openCV** and the **haarcascade** algorithm
 
+Issues you might encounter : 
+- If the image file is corrupted or not in the correct format, the program will be unable to read it
+- Even if the file extension is correct, the image itself might not be valid. You might need to convert it again (try : https://bit.ly/3WI2FPP)
+
 ![image 1](res1.png)
 
 
